@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-This is just 
-=======
 This is just  
 ji
->>>>>>> abd5ead3f53564bd956f45002cc4e6db670d311e
