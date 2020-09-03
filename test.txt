@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 This is just a test.
+=======
+This is just  
+ji da
+>>>>>>> Stashed changes
